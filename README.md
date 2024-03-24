@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakeshparihar
 - 👀 I’m interested in making game for fun and for my intrest
-- 🌱 I’m currently learning new Unity ECS , Render Pipeline, ML
-- 💞️ I’m looking to collaborate on Unity ECS
+- 🌱 I’m currently learning Deep Learning and Computer Vision
+- 💞️ I’m looking to collaborate on Generative AI related work
 - 📫 How to reach me ...
 
 <!---
